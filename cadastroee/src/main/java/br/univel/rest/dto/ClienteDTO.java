@@ -4,7 +4,11 @@ import java.io.Serializable;
 import br.univel.model.Cliente;
 import javax.persistence.EntityManager;
 import javax.xml.bind.annotation.XmlRootElement;
-
+/**
+ * test commit
+ * @author jhoestevam
+ *
+ */
 @XmlRootElement
 public class ClienteDTO implements Serializable {
 
